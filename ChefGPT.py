@@ -2,6 +2,10 @@ from openai import OpenAI
 
 client = OpenAI()
 
+"""
+Missing to edit script and follow assignment instructions
+"""
+
 messages = [
      {
           "role": "system",
